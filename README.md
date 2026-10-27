@@ -119,19 +119,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 </p>
-
----
-
-## 📚 Problem Solving
-
-- [1Day1Question — 백준·프로그래머스 문제 풀이 기록](https://github.com/Taehyoning/1Day1Question)
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taehyoning&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center"><sub>실무 프로젝트 저장소는 비공개이며, 공개 저장소만으로 모든 개발 경험이 드러나지는 않습니다.</sub></p>
